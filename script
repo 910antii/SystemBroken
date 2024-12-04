@@ -21,7 +21,7 @@ local FlySpeed = 50
 local PotionTool = nil
 local SavedCheckpoint = nil
 local MinesFolder = nil
-local FreeEmotesEnabled = false
+local FreeEmotesEnabled = true
 local CannonsFolders = {}
 
 pcall(function()
